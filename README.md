@@ -1,4 +1,4 @@
-# Reticulum MeshChatX
+# Reticulum MeshChatX 
 
 [Русский](lang/README.ru.md) | [Deutsch](lang/README.de.md) | [Italiano](lang/README.it.md) | [中文](lang/README.zh.md) | [日本語](lang/README.ja.md)
 
